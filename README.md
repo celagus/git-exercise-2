@@ -1,7 +1,7 @@
 # Ejercicio 2: Git History
 
 ## Intro
-Bienvenidxs! Este es el segundo ejercicio del módulo de DevSecOps de Ekoparty Hackademy. En el ejercicio anterior aprendieron a usar Git de forma básica para colaborar en proyectos. En esta oportunidad aprenderemos a navegar dentro del historial de versiones de un repo y detectar una vulnerabilidad típica de muchos desarrolladores.
+Bienvenidxs! Este es el segundo ejercicio del módulo de DevSecOps de Ekoparty Hackademy. En el ejercicio anterior aprendieron a usar Git de forma básica para colaborar en proyectos. En esta oportunidad aprenderemos a navegar dentro del historial de versiones de un repo y detectar un error típico de muchos desarrolladores que puede culminar en una vulnerabilidad.
 
 ## Requisitos
 * Instalar git en tu entorno local - [instructivo](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
